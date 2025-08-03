@@ -3,13 +3,13 @@
 
 Email Me 👉 ✉️ **yashsarthak79@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Admin Panel Dashboard
+- 🔭 **I’m currently working on:** Admin Panel Dashboard and Expense Tracker
 - 🌱 **I’m currently learning:** Mern, Data Science, Python
 - 👨‍💻 **All of my projects are available at:** https://yashvimal34.github.io/
 - 💬 **Ask me about:** Python, Numpy, Flask, MongoDB, NodeJS, ExpressJS
 - 📫 **How to reach me:** yashsarthak79@gmail.com
 - 😄 **Pronouns:** Yash
-- ⚡ **Fun fact:** Discipline Beats Motivation
+- ⚡ **Quotes:** Discipline Beats Motivation
 - 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a7__yash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yash Vimal ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@A7Yash18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashsarthak79@gmail.com) 
