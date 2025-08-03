@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Yash Vimal
-**Student at Chatrapati Sahuji Maharaj University, Kanpur || BCA || MERN STACK
+**Student at Chhatrapati Sahuji Maharaj University, Kanpur || BCA || MERN STACK
 
 Email Me 👉 ✉️ **yashsarthak79@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
