@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **yashsarthak79@gmail.com** For Collaboration/Project or An
 
 - 🔭 **I’m currently working on:** Admin Panel Dashboard and Expense Tracker
 - 🌱 **I’m currently learning:** Mern, Data Science, Python
-- 👨‍💻 **All of my projects are available at:** https://yashvimal34.github.io/
+- 👨‍💻 **All of my projects are available at:** https://yashvimal34.github.io/portfolio/
 - 💬 **Ask me about:** Python, Numpy, Flask, MongoDB, NodeJS, ExpressJS
 - 📫 **How to reach me:** yashsarthak79@gmail.com
 - 😄 **Pronouns:** Yash
